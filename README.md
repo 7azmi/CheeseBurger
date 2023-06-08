@@ -36,5 +36,4 @@ The game ends when one of the players wins, or when the board is full and it's a
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
+![License](https://i.imgflip.com/5i4p3f.jpg)
